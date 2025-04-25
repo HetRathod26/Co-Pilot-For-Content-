@@ -22,7 +22,7 @@ AI Co-Pilot is a smart, all-in-one creative assistant tailored for storytellers,
 
 **Voice Integration:** Includes text-to-speech and speech-to-text interaction.
 
-(https://github.com/user-attachments/assets/26b69b7e-58a0-444f-986c-b40dd376b6fa)
+
 
 ![image](https://github.com/user-attachments/assets/ca3af3d0-e56f-4e4d-b0a0-bf580178c330)
 
